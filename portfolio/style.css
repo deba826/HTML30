@@ -384,7 +384,7 @@ button:hover {
     transition: background 0.5s;
 }
 .btn:hover{
-    background: #3225e7;
+    background: #1670a8;
 }
 
 /* -----------------------contact----------------------- */
@@ -428,10 +428,10 @@ form input, form textarea{
     width: 100%;
     border: 0;
     outline: none;
-    background: #1f324c;
+    background: #1b1c1c;
     padding: 15px;
     margin: 15px 0;
-    color: #10d56c;
+    color: #a8b5ae;
     font-size: 15px;
     border-radius: 6px;
 }
