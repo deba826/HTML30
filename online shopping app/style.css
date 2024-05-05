@@ -525,19 +525,19 @@
     padding: 0 0 30px 0px;
     color: white;
     font-size: 14px;
-    background-color: rgb(36, 56, 154);
+    background-color: rgb(9, 128, 202);
     margin-top: 100px;
 }
 #footer .footer-top{
     padding: 60px 0 30px 0;
-    background-color: rgb(29, 55, 149);
+    background-color: rgb(43, 52, 79);
     color: white;
 }
 #footer .footer-top .footer-contact{
     margin-bottom: 30px;
 }
 #footer .footer-top .footer-contact h3{
-    color: rgb(11, 39, 142);
+    color:  rgb(20, 57, 169);
 }
 #footer .footer-top .footer-contact h4{
     font-size: 22px;
