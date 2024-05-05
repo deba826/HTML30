@@ -69,7 +69,7 @@
 
 /* navbar */
 #navbar{
-    background-color: rgb(67 0 86);
+    background-color: rgb(17, 25, 98);
 }
 #logo{
     margin-left: 15px;
@@ -79,7 +79,7 @@
     margin-bottom: 6px;
 }
 #logo span{
-    color: #ffc800;
+    color: #358df2;
 }
 #logo #span1{
     font-size: 30px;
@@ -97,15 +97,15 @@
     transition: 0.5s ease;
 }
 .nav-item .nav-link:hover{
-    color: #ffc800;
+    color: #b0b0b4;
 }
 .dropdown-menu li a{
     color: white;
     transition: 0.5s ease;
 }
 .dropdown-menu li a:hover{
-    background-color: rgb(67 0 86);
-    color: #ffc800;
+    background-color: rgb(50, 23, 205);
+    color: #dbd8d0;
 }
 #search input{
     border-radius: 50px;
@@ -114,8 +114,8 @@
 #search button{
     border-radius: 50px;
     color: white;
-    border: 1px solid #ffc800;
-    background-color: #ffc800;
+    border: 1px solid #3d1cbf;
+    background-color: #1800b5;
 }
 /* navbar */
 
@@ -131,7 +131,7 @@
     justify-content: center;
     flex-wrap: wrap;
     position: relative;
-    background-color: #a9a9a92b;
+    background-color: #2664932b;
     z-index: 0;
 }
 .home .img{
@@ -146,18 +146,18 @@
     margin-top: 20px;
 }
 .content h1{
-    color: rgb(67 0 86);
+    color: rgb(10, 10, 177);
     font-weight: bold;
     margin-left: 23px;
     font-size: 55px;
     text-shadow: -1px 1px 1px black;
 }
 .content h1 span{
-    color: rgb(67 0 86);
+    color: rgb(22, 10, 130);
     text-shadow: 1px 1px 1px black;
 }
 #span2{
-    color: #ffc800;
+    color: #044bbe;
 }
 .content p{
     margin-left: 23px;
@@ -169,7 +169,7 @@
     width: 150px;
     height: 32px;
     letter-spacing: 3px;
-    background-color: rgb(67 0 86);
+    background-color: rgb(57, 29, 215);
     color: white;
     border-radius: 5px;
     border: none;
@@ -177,7 +177,7 @@
     cursor: pointer;
 }
 .btn button:hover{
-    background-color: #ffc800;
+    background-color: #142f89;
     color: black;
     border: none;
 }
@@ -220,9 +220,9 @@
     margin-top: 100px;
 }
 #product-cards h1{
-    color: #ffc800;
+    color: #2929be;
     text-shadow: 1px 1px 1px black;
-    border-bottom: 2px solid #ffc800;
+    border-bottom: 2px solid #161892;
 }
 #product-cards .card h3{
     font-size: 20px;
@@ -238,7 +238,7 @@
     font-size: 13px;
 }
 .checked{
-    color: #ffc800;
+    color: #165ac0;
 }
 #product-cards .card h2{
     font-size: 20px;
@@ -269,7 +269,7 @@
     margin-top: 30px;
 }
 #other-cards .card{
-    background-color: #a9a9a92b;
+    background-color: #000000;
 }
 #other-cards .card h3{
     margin-top: 30px;
@@ -344,7 +344,7 @@
     justify-content: center;
     flex-wrap: wrap;
     position: relative;
-    background-color: #a9a9a92b;
+    background-color: #0d4ad92b;
     z-index: 0;
 }
 .banner .img{
@@ -359,18 +359,18 @@
     margin-top: 20px;
 }
 .banner .content h1{
-    color: rgb(67 0 86);
+    color: rgb(28, 34, 157);
     font-weight: bold;
     margin-left: 23px;
     font-size: 55px;
     text-shadow: -1px 1px 1px black;
 }
 .banner .content h1 span{
-    color: rgb(67 0 86);
+    color: rgb(16, 78, 201);
     text-shadow: 1px 1px 1px black;
 }
 #span2{
-    color: #ffc800;
+    color: #09399f;
 }
 .banner .content p{
     margin-left: 23px;
@@ -382,7 +382,7 @@
     width: 150px;
     height: 32px;
     letter-spacing: 3px;
-    background-color: rgb(67 0 86);
+    background-color: rgb(39, 17, 159);
     color: white;
     border-radius: 5px;
     border: none;
@@ -390,7 +390,7 @@
     cursor: pointer;
 }
 .btn button:hover{
-    background-color: #ffc800;
+    background-color: #0fadc9;
     color: black;
     border: none;
 }
@@ -493,7 +493,7 @@
     margin-left: 10px;
     border-radius: 3px;
     border: none;
-    background-color: #ffc800;
+    background-color: #0b61b7;
     color: white;
     letter-spacing: 3px;
     font-weight: bold;
@@ -525,19 +525,19 @@
     padding: 0 0 30px 0px;
     color: white;
     font-size: 14px;
-    background-color: rgb(67 0 86);
+    background-color: rgb(36, 56, 154);
     margin-top: 100px;
 }
 #footer .footer-top{
     padding: 60px 0 30px 0;
-    background-color: rgb(67 0 86);
+    background-color: rgb(29, 55, 149);
     color: white;
 }
 #footer .footer-top .footer-contact{
     margin-bottom: 30px;
 }
 #footer .footer-top .footer-contact h3{
-    color: #ffc800;
+    color: rgb(11, 39, 142);
 }
 #footer .footer-top .footer-contact h4{
     font-size: 22px;
@@ -563,7 +563,7 @@
     margin-top: 10px;
 }
 #footer .footer-top .footer-links h4{
-    color: #ffc800;
+    color: #281fa0;
 }
 #footer .footer-top .footer-links ul{
     list-style: none;
@@ -584,13 +584,13 @@
     transition: 0.5s ease;
 }
 #footer .footer-top .footer-links ul li a:hover{
-    color: #ffc800;
+    color: #2b4bbe;
 }
 #footer .footer-top .socail-links a{
     font-size: 18px;
     display: inline-block;
     text-decoration: none;
-    background-color: #373737;
+    background-color: #262874;
     color: white;
     line-height: 1;
     padding: 8px 0;
@@ -601,7 +601,7 @@
     transition: 0.5s ease;
 }
 #footer .footer-top .socail-links a:hover{
-    background-color: #ffc800;
+    background-color: #0f4e97;
     color: white;
 }
 #footer .copyright{
@@ -614,7 +614,7 @@
     font-size: 13px;
 }
 #footer .credits a{
-    color: #ffc800;
+    color: #1445a8;
 }
 /* footer */
 
@@ -643,13 +643,13 @@ html{
 #login{
     width: 65%;
     height: 70vh;
-    background-color: rgb(67 0 86);
+    background-color: rgb(20, 22, 122);
     margin-top: 35px;
     border-radius: 10px;
     box-shadow: rgba(17,12, 46, 0.15) 0px 48px 100px 0px;
 }
 #side1 h3{
-    color: #ffc800;
+    color: #0066ff;
     font-weight: bold;
     margin-top: 200px;
 }
@@ -660,7 +660,7 @@ html{
 }
 #side2 h3{
     margin-top: 30px;
-    color: #ffc800;
+    color: #2161c8;
     font-weight: bold;
     text-shadow: 0px 1px 1px black;
 }
@@ -668,7 +668,7 @@ html{
     margin-top: 15px;
     width: 300px;
     border: none;
-    border-bottom: 2px solid #ffc800;
+    border-bottom: 2px solid #1e42b9;
 }
 .input2 input ::placeholder{
     font-weight: bold;
@@ -680,7 +680,7 @@ html{
     padding: 10px;
     text-decoration: none;
     border-radius: 15px;
-    background-color: #ffc800;
+    background-color: #15409d;
     color: white;
     font-weight: bold;
     border: none;
@@ -713,14 +713,14 @@ html{
 }
 #about h3{
     font-weight: bold;
-    color: #ffc800;
+    color: #192ba1;
     text-shadow: 0px 1px 1px black;
 }
 #about button{
     width: 150px;
     height: 36px;
     color: white;
-    background-color: rgb(67 0 86);
+    background-color: rgb(22, 45, 137);
     border-radius: 5px;
     cursor: pointer;
 }
@@ -737,13 +737,13 @@ html{
 #contact .card{
     height: 80px;
     margin-top: 20px;
-    box-shadow: rgba(100, 100, 111 ,0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(35, 35, 185, 0.2) 0px 7px 29px 0px;
 }
 #contact .card i{
     margin-top: 10px;
     margin-left: 10px;
     font-size: 15px;
-    color: rgb(67 0 86);
+    color: rgb(8, 53, 137);
     font-weight: bold;
     letter-spacing: 3px;
 }
@@ -752,21 +752,21 @@ html{
     margin-top: 10px;
     letter-spacing: 3px;
     font-weight: bold;
-    color: rgb(67 0 86);
+    color: rgb(21, 77, 145);
 }
 .messagebtn button{
     margin-top: 30px;
     width: 200px;
     height: 33px;
     background: transparent;
-    border: 2px solid rgb(67 0 86);
+    border: 2px solid rgb(25, 20, 146);
     font-weight: bold;
     letter-spacing: 3px;
     transition: 0.5s ease;
     cursor: pointer;
 }
 .messagebtn button:hover{
-    background-color: rgb(67 0 86);
+    background-color: rgb(17, 42, 171);
     color: white;
 }
 /* contact */
